@@ -25,10 +25,10 @@ EYEMW/
 │   ├── phase4_slicing_analysis.py   # Environmental robustness slicing
 │   ├── phase5_figures.py            # Publication figures and summary tables
 │   └── run_all.py                   # Execute full pipeline
-├── results/                     # Generated: CSV/JSON/parquet outputs
-├── figures/                     # Generated: PNG figures
-├── paper/
-│   └── paper.md                 # Manuscript
+├── results/                     # CSV/JSON/parquet outputs
+├── figures/                     # PNG figures
+├── results_explorer.ipynb       # Interactive walkthrough of all results
+├── requirements.txt
 └── README.md
 ```
 
@@ -37,7 +37,7 @@ EYEMW/
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
-pip install pandas openpyxl numpy scipy scikit-learn matplotlib seaborn statsmodels pyarrow
+pip install -r requirements.txt
 ```
 
 ## Running
