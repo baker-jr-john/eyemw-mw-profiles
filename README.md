@@ -1,6 +1,6 @@
 # Mind Wandering is Not Monolithic
 
-Code repository for "Mind Wandering is Not Monolithic: Latent Profiles of Mind Wandering Dimensions Reveal Distinct Gaze Signatures Across Environmental Conditions" — submitted to the [EYEMW Dataset Competition](https://www.eyemindwander.com/competition/) (April 15, 2026).
+Code repository for "Mind Wandering is Not Monolithic: Latent Profiles of Mind Wandering Dimensions Reveal Distinct Gaze Signatures Across Environmental Conditions" — for the [EYEMW Dataset Competition](https://www.eyemindwander.com/competition/) (deadline: April 15, 2026).
 
 ## Research Question
 
