@@ -4,6 +4,14 @@
 # Dataset (too large / not ours to redistribute)
 database/
 
+# Supporting materials (not part of the submission)
+competition/
+database_description/
+deep_research/
+outputs/
+paper/
+prompts/
+
 # Generated outputs (reproducible from pipeline)
 results/
 figures/
