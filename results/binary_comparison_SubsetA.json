@@ -1,0 +1,7 @@
+{
+  "subset": "SubsetA",
+  "binary_auroc": 0.6986044591928547,
+  "multi_auroc": 0.5891920307580791,
+  "improvement": -0.10941242843477561,
+  "on_task_profile": 1
+}

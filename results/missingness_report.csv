@@ -1,0 +1,100 @@
+,missing_count,missing_pct
+IntentionalityProbeType,22134,100.0
+IntentionalityResponse,22134,100.0
+IntentionalityAggregated,22134,100.0
+AwarenessScaleMax,22134,100.0
+AwarenessScaleMin,22134,100.0
+IntentionalityResponseType,22134,100.0
+OffScreenFixations,22134,100.0
+UniqueFixProportion,22134,100.0
+OffScreenGazeTime,22134,100.0
+AOIFixations,22134,100.0
+AOIGazeTime,22134,100.0
+AOIFixationTime,22134,100.0
+South American,22124,100.0
+OffScreenFixProportion,22134,100.0
+UniqueFixations,22134,100.0
+OffScreenFixTime,22134,100.0
+AOIFixationProportion,22134,100.0
+FixationTime,22134,100.0
+Middle Easter/ North African,22106,99.9
+Native Hawaiian/Pacific Islander,22120,99.9
+South Asian,22113,99.9
+Southeast Asian,22064,99.7
+East Asian,22001,99.4
+Alaskan/Native American,21869,98.8
+FMTScaleMin,21598,97.6
+FMTScaleMax,21598,97.6
+IntentionalityScaleDirection,21598,97.6
+IntentionalityScaleMax,21598,97.6
+Fixations,21598,97.6
+SamplingRate,21598,97.6
+IntentionalityScaleMin,21598,97.6
+TUTScaleMax,20178,91.2
+TUTScaleMin,20178,91.2
+TUTScaleDirection,20178,91.2
+RefreshRate,19884,89.8
+AwarenessScaleDirection,19761,89.3
+AwarenessResponseType,19460,87.9
+AwarenessResponse,19460,87.9
+AwarenessAggregated,19460,87.9
+AwarenessProbeType,19460,87.9
+Clinical,19368,87.5
+DisengagementScaleMax,19225,86.9
+DisengagementScaleMin,19225,86.9
+DisengagementScaleDirection,19225,86.9
+FMTScaleDirection,19225,86.9
+Hispanic/Latino,19136,86.5
+Asian/Pacific Islander,18945,85.6
+FMTResponseType,18924,85.5
+FMTProbeType,18924,85.5
+FMTAggregated,18924,85.5
+FMTResponse,18924,85.5
+Black/African American,17764,80.3
+ArousalScaleDirection,16640,75.2
+ArousalResponse,16640,75.2
+ArousalAggregated,16640,75.2
+ArousalScaleMax,16640,75.2
+ArousalProbeType,16640,75.2
+ArousalResponseType,16640,75.2
+ArousalScaleMin,16640,75.2
+Alone,14324,64.7
+PerformanceDirection,14099,63.7
+PerformanceBinary,14099,63.7
+TaskPerformance,14099,63.7
+BoredomScaleMax,13967,63.1
+BoredomScaleDirection,13967,63.1
+BoredomProbeType,13967,63.1
+BoredomResponseType,13967,63.1
+BoredomResponse,13967,63.1
+BoredomAggregated,13967,63.1
+BoredomScaleMin,13967,63.1
+DeviceType,11968,54.1
+White/Caucasion,11627,52.5
+ValenceAggregated,11448,51.7
+ValenceProbeType,11448,51.7
+ValenceResponseType,11448,51.7
+ValenceScaleMin,11448,51.7
+ValenceResponse,11448,51.7
+ValenceScaleMax,11448,51.7
+ValenceScaleDirection,11448,51.7
+Medication,11172,50.5
+Neurodivergent,10871,49.1
+DisengagementResponseType,9646,43.6
+DisengagementProbeType,9646,43.6
+DisengagementResponse,9646,43.6
+DisengagementAggregated,9646,43.6
+Glasses,2260,10.2
+ScreenHeight,2219,10.0
+ScreenWidth,2219,10.0
+IOS,1709,7.7
+Lighting,1423,6.4
+AOIGazeProportion,1377,6.2
+AOIGazes,1377,6.2
+UniqueGazes,707,3.2
+UniqueGazeProportion,707,3.2
+Gazes,536,2.4
+OffScreenGazeProportion,536,2.4
+OffscreenGazes,536,2.4
+Age,124,0.6
+Gender,114,0.5

@@ -1,0 +1,4 @@
+dimension,n_slices,chi2,p_value,dof,significant,interpretation
+Lighting,3,24.217339403043795,0.002107131555729345,8,True,Profile distribution differs across slices
+DeviceType,2,27.80557784294545,1.3657243058102789e-05,4,True,Profile distribution differs across slices
+ExpSetting,2,33.732542055976765,8.454841688599288e-07,4,True,Profile distribution differs across slices

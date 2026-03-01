@@ -1,0 +1,46 @@
+{
+  "eligible_studies": [
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "subset_a": [
+    7,
+    8,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    17
+  ],
+  "subset_a_dims": [
+    "TUT",
+    "Disengagement",
+    "Valence",
+    "Boredom"
+  ],
+  "subset_b": [
+    3,
+    4
+  ],
+  "subset_b_dims": [
+    "TUT",
+    "FMT",
+    "Awareness",
+    "Disengagement"
+  ]
+}

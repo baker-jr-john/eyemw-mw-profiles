@@ -1,0 +1,13 @@
+{
+  "subset": "SubsetB",
+  "n_boot": 1000,
+  "best_k": 5,
+  "mean_ari": 0.6569528270530512,
+  "ari_ci_lower": 0.42668322769106687,
+  "ari_ci_upper": 0.97668409023458,
+  "mean_posterior": 0.9903447046270447,
+  "posterior_ci_lower": 0.9529811859489232,
+  "posterior_ci_upper": 0.9995325029563921,
+  "target_posterior": 0.7,
+  "meets_posterior_target": true
+}

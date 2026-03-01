@@ -12,9 +12,8 @@ outputs/
 paper/
 prompts/
 
-# Generated outputs (reproducible from pipeline)
-results/
-figures/
+# Generated outputs (reproducible via `python scripts/run_all.py`)
+# Tracked so judges can inspect without re-running the pipeline.
 
 # macOS
 .DS_Store

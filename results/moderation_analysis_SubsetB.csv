@@ -1,0 +1,2 @@
+dimension,slice_1,slice_2,spearman_rho,p_value,interpretation
+Lighting,well_lit,dim_lit,0.7142857142857144,0.046528232284167255,Robust

@@ -1,0 +1,6 @@
+dimension,slice_1,slice_2,spearman_rho,p_value,interpretation
+Lighting,well_lit,dim_lit,0.7142857142857144,0.046528232284167255,Robust
+Lighting,well_lit,no_lighting,0.8571428571428572,0.0065300172547152905,Robust
+Lighting,dim_lit,no_lighting,0.7857142857142858,0.020815127253525273,Robust
+DeviceType,computer,laptop,0.880952380952381,0.0038503204637324005,Robust
+ExpSetting,home,public,0.14285714285714288,0.735764859879812,Environment-sensitive

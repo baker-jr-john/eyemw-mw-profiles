@@ -1,0 +1,62 @@
+{
+  "source_file": "/Users/john/EYEMW/database/Eye Tracking MW Database 1.4.xlsx",
+  "total_rows_original": 22134,
+  "eligible_studies": [
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "rows_after_filtering": 12850,
+  "mw_harmonized_columns": {
+    "TUT": "TUT_norm",
+    "Awareness": "Awareness_norm",
+    "FMT": "FMT_norm",
+    "Disengagement": "Disengagement_norm",
+    "Valence": "Valence_norm",
+    "Arousal": "Arousal_norm",
+    "Boredom": "Boredom_norm"
+  },
+  "gaze_z_columns": {
+    "Gazes": "Gazes_z",
+    "Fixations": "Fixations_z",
+    "UniqueGazes": "UniqueGazes_z",
+    "UniqueGazeProportion": "UniqueGazeProportion_z",
+    "OffscreenGazes": "OffscreenGazes_z",
+    "OffScreenGazeProportion": "OffScreenGazeProportion_z",
+    "AOIGazes": "AOIGazes_z",
+    "AOIGazeProportion": "AOIGazeProportion_z"
+  },
+  "subset_a": [
+    7,
+    8,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    17
+  ],
+  "subset_b": [
+    3,
+    4
+  ],
+  "harmonization_notes": [
+    "Binary probes (ProbeType=1): kept as 0/1",
+    "Likert scales (ProbeType=2): normalized to 0-1 via (resp-min)/(max-min)",
+    "Decreasing scales (ScaleDirection=2): flipped via 1 - normalized",
+    "Gaze features: z-scored within each study"
+  ]
+}
