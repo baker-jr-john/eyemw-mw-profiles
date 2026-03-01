@@ -8,12 +8,14 @@ database/
 competition/
 database_description/
 deep_research/
+docs/
 outputs/
 paper/
 prompts/
 
 # Generated outputs (reproducible via `python scripts/run_all.py`)
 # Tracked so judges can inspect without re-running the pipeline.
+results/harmonized_data.csv
 
 # macOS
 .DS_Store
