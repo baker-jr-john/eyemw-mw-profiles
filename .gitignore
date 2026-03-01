@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+
+# Dataset (too large / not ours to redistribute)
+database/
+
+# Generated outputs (reproducible from pipeline)
+results/
+figures/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Claude Code
+.claude/
